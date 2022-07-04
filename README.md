@@ -5,3 +5,6 @@ Mediante este trabajo se pretende fabricar un robot desde cero, aprender más so
 Para el funcionamiento del código se deben descargar todos los archivos y carpetas y guardarlos en el mismo directorio.
 
 Hecho esto y disponiendo de 4 robots como los diseñados en el TFG y un circuito dibujado en el suelo, ejecutar los códigos juego.py y bluetooth.py en dos terminales separados.
+
+El siguiente vídeo muestra una serie de pruebas que se realizaron con el código final y los robots construidos.
+[![Alt text](https://img.youtube.com/vi/LBlArfFgbOc/0.jpg)](https://www.youtube.com/watch?v=LBlArfFgbOc)
